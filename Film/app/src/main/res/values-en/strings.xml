@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Film</string>
+    <string name="hintTitle">Enter the title</string>
+    <string name="hintDescription">Enter the description</string>
+    <string name="hintYear">Enter the year</string>
+    <string name="hintScore">Enter the score (0-5)</string>
+    <string name="hintUri">Enter the image url</string>
+    <string name="btn_add">ADD</string>
+    <string name="empty">This field can not be empty</string>
+    <string name="wrongScore">This field have to be between 0 and 5</string>
+    <string name="btn_delete">DELETE</string>
+    <string name="hintEmail">Enter your e-mail</string>
+    <string name="hintPasword">Enter your password</string>
+    <string name="btn_login">LOG IN</string>
+    <string name="prefs_name">My Preferences</string>
+    <string name="url">https://www.abc.es/play/cine/peliculas</string>
+    <string name="error">Error</string>
+    <string name="emptyLogin">E-mail and password can not be empty</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Película</string>
+    <string name="hintTitle">Introduce el título</string>
+    <string name="hintDescription">Introduce la descripción</string>
+    <string name="hintYear">Introduce el año</string>
+    <string name="hintScore">Introduce la puntuación (0-5)</string>
+    <string name="hintUri">Introduce la url de la imagen</string>
+    <string name="btn_add">AÑADIR</string>
+    <string name="empty">Este campo no puede estar vacio</string>
+    <string name="wrongScore">Este campo tiene que estar entre 0 y 5</string>
+    <string name="btn_delete">BORRAR</string>
+    <string name="hintEmail">Introduce tu e-mail</string>
+    <string name="hintPasword">Introduce tu contraseña</string>
+    <string name="btn_login">ENTRAR</string>
+    <string name="prefs_name">Mis Preferencias</string>
+    <string name="url">https://www.abc.es/play/cine/peliculas</string>
+    <string name="error">Error</string>
+    <string name="emptyLogin">E-mail y contraseña no pueden estar vacios</string>
+</resources>
